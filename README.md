@@ -4,7 +4,7 @@
 
 The game built with C# Windows Console App in Visual Studio
 
-Battleship game for Moralabs
+Battleship game developed for Moralabs
 
 You can play game with in-game instructions.
 
@@ -16,9 +16,9 @@ Game will be over when one player's all ships sunk.
 
 //TR
 
-Oyun Windows Terminal uygulamasıdır.
+Moralabs için geliştirilen Amiral Battı oyunu
 
-Moralabs Amiral Battı oyunu
+Oyun Windows Terminal uygulamasıdır.
 
 Oyun içi yönlendirmeler ile oyunu rahatça oynayabilirsiniz.
 
