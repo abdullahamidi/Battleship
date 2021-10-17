@@ -1,0 +1,14 @@
+C:\Users\itopya\source\repos\Battleship\bin\Debug\netcoreapp3.1\Battleship.exe
+C:\Users\itopya\source\repos\Battleship\bin\Debug\netcoreapp3.1\Battleship.deps.json
+C:\Users\itopya\source\repos\Battleship\bin\Debug\netcoreapp3.1\Battleship.runtimeconfig.json
+C:\Users\itopya\source\repos\Battleship\bin\Debug\netcoreapp3.1\Battleship.runtimeconfig.dev.json
+C:\Users\itopya\source\repos\Battleship\bin\Debug\netcoreapp3.1\Battleship.dll
+C:\Users\itopya\source\repos\Battleship\bin\Debug\netcoreapp3.1\Battleship.pdb
+C:\Users\itopya\source\repos\Battleship\obj\Debug\netcoreapp3.1\Battleship.csproj.AssemblyReference.cache
+C:\Users\itopya\source\repos\Battleship\obj\Debug\netcoreapp3.1\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itopya\source\repos\Battleship\obj\Debug\netcoreapp3.1\Battleship.AssemblyInfoInputs.cache
+C:\Users\itopya\source\repos\Battleship\obj\Debug\netcoreapp3.1\Battleship.AssemblyInfo.cs
+C:\Users\itopya\source\repos\Battleship\obj\Debug\netcoreapp3.1\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\itopya\source\repos\Battleship\obj\Debug\netcoreapp3.1\Battleship.dll
+C:\Users\itopya\source\repos\Battleship\obj\Debug\netcoreapp3.1\Battleship.pdb
+C:\Users\itopya\source\repos\Battleship\obj\Debug\netcoreapp3.1\Battleship.genruntimeconfig.cache
