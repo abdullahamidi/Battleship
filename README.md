@@ -6,13 +6,13 @@ The game built with C# Windows Console App in Visual Studio
 
 Battleship game developed for Moralabs
 
-You can play game with in-game instructions.
+You can play the game with in-game instructions.
 
-You will place your ships to board by typing the X and Y coordinates. (e.g. 1 2)
+You will place your ships by typing the X and Y coordinates. (e.g. 1 2)
 
 After placement, program will ask you hit location and game goes on.
 
-Game will be over when one player's all ships sunk.
+Game will be over when one player's all ships defeated.
 
 //TR
 
